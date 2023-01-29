@@ -1,2 +1,2 @@
 # Devil_fruit
-Describes variety of Devil fruits.
+Describes a variety of Devil fruits.
